@@ -1,0 +1,9 @@
+Scenes:
+    - Boot: load assets
+    - Title: display game title with a button to allow player to start game
+    - Game: main logic
+    - UI: display current gold count
+Classes:
+    - player: creating the player game object and handle player input
+    - chest: create chest game object, how much gold it holds etc
+    - 
